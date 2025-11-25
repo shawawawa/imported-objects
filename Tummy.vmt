@@ -1,0 +1,13 @@
+PBR
+{
+	$basetexture		"Tummy_albedo"
+	$bumpmap			"Tummy_bump"
+
+	$mraotexture		"Tummy_mrao"
+	$model				1
+	$emissiontexture	"Tummy_emit"
+
+	$parallax			1
+	$parallaxdepth		0.04
+	$parallaxcenter		0.5
+}
