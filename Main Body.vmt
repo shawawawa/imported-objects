@@ -1,0 +1,13 @@
+PBR
+{
+	$basetexture		"models/shawawawa/autismrabbot/Main Body_albedo"
+	$bumpmap			"models/shawawawa/autismrabbot/Main Body_bump"
+
+	$mraotexture		"models/shawawawa/autismrabbot/Main Body_mrao"
+	$model				1
+	$emissiontexture	"models/shawawawa/autismrabbot/Main Body_emit"
+
+	$parallax			1
+	$parallaxdepth		0.04
+	$parallaxcenter		0.5
+}
